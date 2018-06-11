@@ -1,1 +1,1 @@
-# bootstrap-theme
+# bootstrap
